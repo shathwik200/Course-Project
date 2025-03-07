@@ -274,11 +274,13 @@ body.light-mode .btn {
 }
 
 body.light-mode .theme-toggle .theme-toggle__text {
-    color: #000000; /* Pure black for light mode */
+    color: #000000;
+    /* Pure black for light mode */
 }
 
 body.dark-mode .theme-toggle .theme-toggle__text {
-    color: #ffffff; /* Pure white for dark mode */
+    color: #ffffff;
+    /* Pure white for dark mode */
 }
 
 /* Output Box */
